@@ -1,4 +1,4 @@
-# 🌐 [Nombre del Proyecto] — Sistema de Computación Ubicua
+# 🌐 [Nombre del Proyecto]
 
 > **Curso Académico:** 20XX/20YY  
 > **Fecha de última actualización:** DD/MM/20AA  
