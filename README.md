@@ -35,7 +35,7 @@ Para facilitar la evaluación y reproducibilidad del proyecto, este repositorio 
 │   ├── arquitectura/      # Diagramas de arquitectura Mist-Edge-Fog-Cloud, secuencia y flujo de datos
 │   ├── otra-media/        # Audios, recursos multimedia o datasets de prueba organizados en los subdirecorios que necesites
 ├── hardware-tests/        # Sketches y logs de pruebas empíricas comparativas de sensores/actuadores descartados y elegidos (1 subdirectorio por cada conjunto de pruebas realizado)
-├── source/                # Código fuente final de los sistema involucrados (Arduino, ESP32, Routers, smartphone... 1 subdirectorio por dispositivo)
+├── sources/               # Código fuente final de los sistema involucrados (Arduino, ESP32, Routers, smartphone... 1 subdirectorio por dispositivo)
 │   ├── dispositivo 1/     # Código fuente del dispositivo 1
 │   ├── dispositivo 2/     # Código fuente del dispositivo 2
 │   ├── dispositivo 3/     # Código fuente del dispositivo 3
